@@ -1,0 +1,9 @@
+Worker:6001 [INFO] Starting worker host=localhost port=6001 pwd=/Users/zainkawoosa/Desktop/seniorYear/semester2/eecs485/p4
+Worker:6001 [INFO] manager_host=localhost manager_port=6000
+Worker:6001 [INFO] created start server for worker
+Worker:6001 [INFO] W not shut down
+Worker:6001 [INFO] W not shut down
+Worker:6001 [INFO] W not shut down
+Worker:6001 [INFO] W not shut down
+Worker:6001 [INFO] Running map thread
+Worker:6001 [INFO] Opened input path

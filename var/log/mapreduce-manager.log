@@ -1,0 +1,17 @@
+Manager:6000 [INFO] run the jobs
+Manager:6000 [INFO] checking job queue
+Manager:6000 [INFO] Starting manager host=localhost port=6000 pwd=/Users/zainkawoosa/Desktop/seniorYear/semester2/eecs485/p4
+Manager:6000 [INFO] checking job queue
+Manager:6000 [INFO] checking job queue
+Manager:6000 [INFO] checking job queue
+Manager:6000 [INFO] check if is working on job
+Manager:6000 [INFO] checking job queue
+Manager:6000 [INFO] starting run job thread
+Manager:6000 [INFO] Starting run_job
+Manager:6000 [INFO] Created tmpdir /var/folders/6v/16l93s294ns3z8gq8b0chl2w0000gn/T/mapreduce-shared-job00000-3wvnn_ha
+Manager:6000 [INFO] Calling mapping /var/folders/6v/16l93s294ns3z8gq8b0chl2w0000gn/T/mapreduce-shared-job00000-3wvnn_ha
+Manager:6000 [INFO] 0 ready 
+Manager:6000 [INFO] 1 dead 
+Manager:6000 [INFO] Sent reassign to worker 0 
+Manager:6000 [INFO] Calling reducing /var/folders/6v/16l93s294ns3z8gq8b0chl2w0000gn/T/mapreduce-shared-job00000-3wvnn_ha
+Manager:6000 [INFO] Starting reducing
